@@ -1,0 +1,4 @@
+<items>
+    <active name="Storia del procione" description="Giá l'hai detta Ale!" 
+            gfx="storia_procione.png" cache="damage" maxcharge="6" />
+</items>
